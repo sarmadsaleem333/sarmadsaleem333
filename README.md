@@ -4,11 +4,11 @@ I'm a passionate full-stack developer and a keen interest in machine learning. H
 Skills:
 
 
-- 🔭 **Currently Working On:** Exciting projects that leverage the power of the MERn stack for robust and scalable web applications.
+- 🔭 **Currently Working On:** Exciting projects that leverage the power of the web and ML for robust and scalable web applications.
 
 - 🌱 **Currently Learning:** Always expanding my knowledge in the realm of machine learning, exploring new algorithms, and staying up-to-date with the latest technologies.
 
-- 👯 **Looking to Collaborate On:** Open source projects, innovative web applications, and anything that involves combining technology with creativity.
+- 👯 **Looking to Collaborate On:** Open source projects, innovative web applications, Machine Learning Projects and anything that involves combining technology with creativity.
 
 - 🤔 **Looking for Help With:** Always open to learning new things and seeking help from the community when facing challenges.
 
