@@ -20,5 +20,5 @@ Skills:
 - ⚡ **Fun Fact:** I believe that the best code is not just functional but also elegant and easy to read. Clean code is a work of art!
 
 Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
 
