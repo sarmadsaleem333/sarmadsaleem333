@@ -18,11 +18,7 @@ Skills:
 
 
 - ⚡ **Fun Fact:** I believe that the best code is not just functional but also elegant and easy to read. Clean code is a work of art!
-**Connect with me:**
-- GitHub: [abubakar-imran](https://github.com/abubakar-imran)
-- LinkedIn: [abubakar-imran-7ba388254](https://www.linkedin.com/in/abubakar-imran-7ba388254/)
-- Instagram: [abubakar.imran.186](https://www.instagram.com/abubakar.imran.186/)
-- Twitter: [itx_abubakar_imran](https://twitter.com/itx_abubakar_imran)
+
 Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
 
 
