@@ -1,10 +1,10 @@
 ### Hi there! 👋 I'm  Muhammad Sarmad Saleem (MSS)
 
-I'm a passionate full-stack developer and have a keen interest in machine learning. Here's a bit about me:
+I'm a passionate Machine Learning Engineer and Full Stack Developer. Here's a bit about me:
 Skills:
 
 
-- 🔭 **Currently Working On:** Exciting projects that leverage the power of the web and ML for robust and scalable web applications.
+- 🔭 **Currently Working On:** Exciting projects that leverage the power of the ML and Web for robust and scalable web applications and machine learning models.
 
 - 🌱 **Currently Learning:** Always expanding my knowledge in the realm of machine learning, exploring new algorithms, and staying up-to-date with the latest technologies.
 
