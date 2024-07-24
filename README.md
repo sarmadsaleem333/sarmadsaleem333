@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm  Muhammad Sarmad Saleem (MSS)
 
-I'm a passionate Machine Learning Engineer and Full Stack Developer. Here's a bit about me:
+I'm a passionate Machine and Deep Learning Engineer and Full Stack Developer. Here's a bit about me:
 
 - 🔭 **Currently Working On:** Exciting projects that leverage the power of the ML and Web for robust and scalable web applications and machine learning models.
 
@@ -17,8 +17,10 @@ I'm a passionate Machine Learning Engineer and Full Stack Developer. Here's a bi
 
 - ⚡ **Fun Fact:** I believe that the best code is not just functional but also elegant and easy to read. Clean code is a work of art!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadsaleem333)](https://git.io/streak-stats)
+ Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
 
-Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadsaleem333&theme=dark)](https://git.io/streak-stats)
+
+
 
 
