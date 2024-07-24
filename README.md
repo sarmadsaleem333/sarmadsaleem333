@@ -17,6 +17,8 @@ I'm a passionate Machine Learning Engineer and Full Stack Developer. Here's a bi
 
 - ⚡ **Fun Fact:** I believe that the best code is not just functional but also elegant and easy to read. Clean code is a work of art!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadsaleem333)](https://git.io/streak-stats)
+
 Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
 
 
