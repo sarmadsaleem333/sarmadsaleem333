@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=sarmadsaleem333)
-
 ### Hi there! 👋 I'm  Muhammad Sarmad Saleem (MSS)
 
 I'm a passionate Machine and Deep Learning Engineer and Full Stack Developer. Here's a bit about me:
