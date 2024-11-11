@@ -19,7 +19,7 @@ I'm a passionate Machine and Deep Learning Engineer and Full Stack Developer. He
 
  Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
 
- ![](https://komarev.com/ghpvc/?username=sarmadsaleem333)
+
  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadsaleem333&theme=dark)](https://git.io/streak-stats)
