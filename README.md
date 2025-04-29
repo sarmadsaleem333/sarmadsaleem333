@@ -1,23 +1,34 @@
-### Hi there! 👋 I'm  Muhammad Sarmad Saleem (MSS)
+# 👋 Hi, I'm Muhammad Sarmad Saleem (MSS)
 
-I'm a passionate Machine and Deep Learning Engineer and Full Stack Developer. Here's a bit about me:
+💼 Deep Learning Engineer | Software Engineer | Full Stack Developer  
+📍 Islamabad, Pakistan  
+📫 [msaleem.bscs22seecs@seecs.edu.pk](mailto:msaleem.bscs22seecs@seecs.edu.pk)  
+🔗 [LinkedIn](https://linkedin.com/in/muhammadsarmad-saleem-3bb060266/) • [GitHub](https://github.com/sarmadsaleem333)
 
-- 🔭 **Currently Working On:** Exciting projects that leverage the power of the ML and Web for robust and scalable web applications and machine learning models.
+---
 
-- 🌱 **Currently Learning:** Always expanding my knowledge in the realm of machine learning, exploring new algorithms, and staying up-to-date with the latest technologies.
+## 🧠 About Me
 
-- 👯 **Looking to Collaborate On:** Open source projects, innovative web applications, Machine Learning Projects and anything that involves combining technology with creativity.
+I'm a versatile ML/DL Engineer and Full Stack Developer passionate about building intelligent systems and scalable applications.  
+Currently deepening my expertise in **MLOps**, I focus on deploying ML pipelines, crafting AI-powered tools, and developing dynamic web platforms.  
+I enjoy bridging the gap between machine learning models and real-world production systems..
 
-- 🤔 **Looking for Help With:** Always open to learning new things and seeking help from the community when facing challenges.
+---
 
-- 💬 **Ask Me About:** Anything related to full-stack development, machine learning, and tech in general. I love discussing ideas and sharing knowledge.
+## 🛠️ Skills & Technologies
 
-- 📫 **How to Reach Me:** Feel free to reach out to me through (sarmadsaleem.333@gmail.com) or connect with me on (linkedin.com/in/muhammad-sarmad-saleem-3bb060266/)
+- **Languages:** Python, JavaScript, C++, Java
+- **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain
+- **MLOps Tools:** MLFlow, DVC, GitHub Actions (CI/CD)
+- **Web Stack:** ReactJS, NextJS/TS, TailwindCSS, NodeJS, FastAPI, Django, Laravel
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Other:** WebRTC, WebSockets, Git, Docker
+
+---
 
 
-- ⚡ **Fun Fact:** I believe that the best code is not just functional but also elegant and easy to read. Clean code is a work of art!
 
- Feel free to explore my repositories and don't hesitate to get in touch. Let's collaborate and create amazing things together! 👨‍💻✨
+
 
 
  
