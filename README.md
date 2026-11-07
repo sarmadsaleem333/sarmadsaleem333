@@ -2,18 +2,27 @@
 
 # Muhammad Sarmad Saleem
 
-### 🤖 AI Engineer · LLM Agents · Deep Learning Researcher
+### 🤖 Full Stack AI Engineer & Researcher
+
+*I research and build intelligent systems across AI, machine & deep learning, large language models and AI agents, and ship them as full-stack products.*
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Engineer-Adept%20Tech%20Solutions-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAAD-Research%20Scholar-F5A623?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IEEE%20FMLDS%202026-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUST-CS%20Graduate-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-F5A623?style=for-the-badge" />
 </p>
 
-📍 Lahore, Pakistan &nbsp;•&nbsp; 📫 [sarmadsaleem.333@gmail.com](mailto:sarmadsaleem.333@gmail.com) &nbsp;•&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/muhammad-sarmad-saleem-3bb060266)
+<a href="https://sarmadsaleem333.github.io/My-Potfolio-Website/">
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0A66C2?style=for-the-badge" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+LLM-powered+AI+Agents;Deep+Learning+%26+Remote+Sensing+Research;RAG+%7C+MCP+%7C+LangGraph+%7C+PyTorch;From+Research+to+Production" alt="Typing SVG" />
+<br/><br/>
+
+📍 Lahore / Islamabad, Pakistan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer+%26+Researcher;Building+LLM-powered+AI+Agents;RAG+%7C+MCP+%7C+LangGraph+%7C+PyTorch;From+Research+to+Production" alt="Typing SVG" />
 
 </div>
 
@@ -21,12 +30,14 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** and NUST Computer Science graduate who builds LLM-based agents, deep learning models, and the full-stack systems around them.
+**Research mindset, engineering discipline.**
 
-- 🏢 Currently designing **agentic pipelines** at **Adept Tech Solutions (NSTP)** that reason over database schemas to generate realistic synthetic data
-- 🛰️ Former researcher in **satellite imagery & remote sensing** at NUST and **RPTU Kaiserslautern, Germany** (DAAD fully funded)
-- 🎓 Published researcher with work accepted at **IEEE FMLDS 2026**
-- ⚙️ Focused on bridging the gap between research models and real-world production systems
+I'm a Computer Science graduate from NUST working where research meets real products. My work spans artificial intelligence, machine learning, large language models and agentic systems, from designing and evaluating new methods to deploying them as reliable software.
+
+- 🤖 Building **LLM agents**, **RAG systems** and **production AI pipelines**
+- 🌐 Shipping **full-stack applications**, from real-time WebRTC and WebSocket platforms to AI-powered web apps
+- 🔬 Researching **deep learning**, **computer vision** and **remote sensing**
+- ⚙️ Caring as much about reliable systems as about model performance
 
 ---
 
@@ -38,7 +49,7 @@ I'm an **AI Engineer** and NUST Computer Science graduate who builds LLM-based a
 
 **ML & Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,huggingface" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" />
 
 **Backend & Web**
 
@@ -54,10 +65,10 @@ I'm an **AI Engineer** and NUST Computer Science graduate who builds LLM-based a
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
@@ -71,9 +82,13 @@ I'm an **AI Engineer** and NUST Computer Science graduate who builds LLM-based a
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Let's Build Something Together
 
+*Open to research collaborations, PhD/MS opportunities and AI engineering roles.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarmadsaleem333.github.io/My-Potfolio-Website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sarmad-saleem-3bb060266)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Sarmad-Saleem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarmadsaleem.333@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sarmadsaleem333&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
