@@ -72,11 +72,6 @@ I'm a Computer Science graduate from NUST working where research meets real prod
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
----
-
-## 🎓 Education
-
-**BS Computer Science**, National University of Sciences & Technology (NUST) &nbsp;|&nbsp; 2022 – 2026 &nbsp;|&nbsp; CGPA: 3.41/4.00
 
 ---
 
